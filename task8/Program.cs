@@ -10,5 +10,5 @@ int i = 2;
 while (i <= a)
 {
     Console.Write(i + " ");
-    i+=2;
+    i += 2;
 }

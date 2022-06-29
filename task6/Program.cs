@@ -9,9 +9,9 @@ Console.WriteLine("Введите число: ");
 int a = int.Parse(Console.ReadLine());
 if (a % 2 == 0)
 {
-Console.WriteLine("Это четное число");
+    Console.WriteLine("Это четное число");
 }
-else 
+else
 {
-Console.WriteLine("Это не четное число");
+    Console.WriteLine("Это не четное число");
 }
